@@ -48,3 +48,11 @@ This project uses synthetic financial data for demonstration and portfolio purpo
 Finance Professional | FP&A | Business Data Analytics
 
 GitHub: https://github.com/naqueeb-mapari
+
+
+---
+
+## Dashboard Preview
+
+![FP&A Financial Performance Dashboard](FPA_Dashboard_Screenshot.png)
+
